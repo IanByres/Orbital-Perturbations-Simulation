@@ -6,7 +6,7 @@ To run: download this repository and run OrbitalPerturbations.m using MATLAB. Co
 ## Example of Results for an Orbit
 
 ### Plot of perturbed orbit (red) over time compared to unpurturbed original orbit (green).
-![Orbit Plot](Docs/Figure1.png "Orbit over Time")
+![Orbit Plot](Figure1.png "Orbit over Time")
 
 ### Plot of distance between perturbed and unperturbed orbits over time for each timestep.
-![Position Variance Plot](Docs/Figure2.png "Difference in Orbits Over Time")
+![Position Variance Plot](Figure2.png "Difference in Orbits Over Time")
